@@ -1,3 +1,6 @@
+# Task -> https://cses.fi/problemset/task/1068
+# About Me -> https://github.com/onurkolayli
+
 n = int(input())
 
 def weird_algorithm(n):
